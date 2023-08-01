@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav20066&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav20066" /> </p>
 
-- 🔭 I’m currently working on **Amazon clone website**
+- 🔭 I’m currently working on **Web Developer @CodSoft**
 
 - 🌱 I’m currently learning **Web development , Python .**
 
