@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Srivastava</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">Software Engineer with a Passion for Innovating Solutions | Expertise in Developing, Implementing, and Testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav20066&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav20066" /> </p>
 
-- 🔭 I’m currently working on **Web Developer @CodSoft**
+- 🔭 I’m currently working on ** Unschool as a Youth Influencer **
 
-- 🌱 I’m currently learning **Web development , Python .**
+- 🌱 I’m currently learning **Web development , Python , Software Development**
 
-- 📫 How to reach me **vaibhavsrivastava577@gmail.com**
+- 📫 How to reach me **srivastavavaibhav533@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
