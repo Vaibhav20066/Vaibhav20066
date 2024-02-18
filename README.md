@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Srivastava</h1>
-<h3 align="center">Software Developer with a Passion for Innovating Solutions | Expertise in Developing, Implementing, and Testing</h3>
+<h3 align="center">Aspiring Computer Science Student | Coding Enthusiast | Seeking opportunities for growth and development | Python Programming language | Github |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav20066&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav20066" /> </p>
 
-- 🔭 I’m currently working on ** Unschool as a Youth Influencer **
-
-- 🌱 I’m currently learning **Web development , Python , Software Development**
+- 🌱 I’m currently learning ** Python & Software Development**
 
 - 📫 How to reach me **srivastavavaibhav533@gmail.com**
 
